@@ -5,4 +5,6 @@ DataBase connectivity
 
 jpa repository 
 
-Thanks
+Everything is working fine , we can merge it.
+
+Thanks :)
