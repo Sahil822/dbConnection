@@ -3,4 +3,8 @@ Welcome to git
 Sahil Thapa
 DataBase connectivity
 
-Thanks
+jpa repository 
+
+Everything is working fine , we can merge it.
+
+Thanks :)
